@@ -1,0 +1,11 @@
+/out:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\intermediate\\"
+/ref:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\in\\"
+/ref:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\in\\"
+/ref:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
+"@c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"

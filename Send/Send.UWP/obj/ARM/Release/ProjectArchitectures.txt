@@ -1,0 +1,2 @@
+c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send.UWP\Send.UWP.csproj;arm
+c:\users\adesh shah\documents\visual studio 2015\Projects\Send\Send\Send\Send.csproj;neutral
